@@ -1,0 +1,50 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+271,"Sheet Feeding or Delivering",0,0,0,0,0,0,0,0,1,0,3,0,4
+324,"Electricity:  Measuring and Testing",0,0,3,0,0,0,0,0,0,0,0,1,4
+340,"Communications:  Electrical",0,0,0,0,0,0,0,0,1,0,2,1,4
+362,"Illumination",0,0,1,0,0,0,2,0,1,0,0,0,4
+725,"Interactive Video Distribution Systems",0,0,0,0,0,1,0,0,1,1,0,0,3
+211,"Supports:  Racks",0,1,1,0,0,0,0,0,0,0,0,0,2
+222,"Dispensing (apparatus and process)",0,0,1,1,0,0,0,0,0,0,0,0,2
+434,"Education and Demonstration",0,0,0,0,0,0,0,0,0,1,0,1,2
+435,"Chemistry: Molecular Biology and Microbiology",2,0,0,0,0,0,0,0,0,0,0,0,2
+455,"Telecommunications",0,0,2,0,0,0,0,0,0,0,0,0,2
+702,"DP: Measuring, Calibrating, or Testing (Data Processing)",0,0,1,0,0,0,0,0,0,0,0,1,2
+002,"Apparel",0,0,1,0,0,0,0,0,0,0,0,0,1
+005,"Beds",0,0,0,0,0,0,0,0,0,0,1,0,1
+029,"Metal Working",0,0,0,0,1,0,0,0,0,0,0,0,1
+030,"Cutlery",1,0,0,0,0,0,0,0,0,0,0,0,1
+053,"Package Making",1,0,0,0,0,0,0,0,0,0,0,0,1
+057,"Textiles:  Spinning, Twisting, and Twining",0,0,0,0,0,0,0,0,0,1,0,0,1
+060,"Power Plants",0,0,0,0,1,0,0,0,0,0,0,0,1
+062,"Refrigeration",0,0,0,0,0,0,0,0,0,0,0,1,1
+072,"Metal Deforming",0,0,0,0,0,0,0,1,0,0,0,0,1
+082,"Turning (e.g., for metal working)",0,0,0,1,0,0,0,0,0,0,0,0,1
+099,"Foods and Beverages: Apparatus",1,0,0,0,0,0,0,0,0,0,0,0,1
+106,"Compositions:  Coating or Plastic",0,0,0,0,0,1,0,0,0,0,0,0,1
+119,"Animal Husbandry",0,0,1,0,0,0,0,0,0,0,0,0,1
+136,"Batteries:  Thermoelectric and Photoelectric",0,0,0,0,0,0,0,0,0,0,1,0,1
+175,"Boring or Penetrating the Earth",1,0,0,0,0,0,0,0,0,0,0,0,1
+182,"Fire Escape, Ladder, or Scaffold",1,0,0,0,0,0,0,0,0,0,0,0,1
+186,"Merchandising",0,0,0,0,0,0,0,0,0,0,0,1,1
+198,"Conveyors:  Power-Driven",0,0,0,0,0,0,0,0,0,0,0,1,1
+209,"Classifying, Separating, and Assorting Solids",0,0,0,0,1,0,0,0,0,0,0,0,1
+220,"Receptacles",0,0,0,0,0,0,0,0,0,0,0,1,1
+244,"Aeronautics and Astronautics",0,0,0,1,0,0,0,0,0,0,0,0,1
+248,"Supports (e.g., for holding articles, etc.)",0,0,0,0,0,1,0,0,0,0,0,0,1
+296,"Land Vehicles:  Bodies and Tops",0,0,0,0,1,0,0,0,0,0,0,0,1
+320,"Electricity:  Battery or Capacitor Charging or Discharging",0,0,0,0,0,0,0,0,1,0,0,0,1
+333,"Wave Transmission Lines and Networks",0,0,1,0,0,0,0,0,0,0,0,0,1
+345,"Computer Graphics Processing and Selective Visual Display Systems",0,0,0,0,0,0,0,0,0,1,0,0,1
+348,"Television",0,0,0,0,1,0,0,0,0,0,0,0,1
+404,"Road Structure, Process, or Apparatus",0,0,0,0,0,0,1,0,0,0,0,0,1
+414,"Material or Article Handling",1,0,0,0,0,0,0,0,0,0,0,0,1
+428,"Stock Material or Miscellaneous Articles",0,0,0,0,0,0,0,0,1,0,0,0,1
+431,"Combustion",1,0,0,0,0,0,0,0,0,0,0,0,1
+452,"Butchering",0,0,0,0,0,0,0,1,0,0,0,0,1
+607,"Surgery: Light, Thermal, and Electrical Application",0,0,0,0,1,0,0,0,0,0,0,0,1
+700,"DP: Generic Control Systems or Specific Applications (Data Processing)",0,0,0,0,0,0,0,1,0,0,0,0,1
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",0,0,0,0,0,1,0,0,0,0,0,0,1
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",0,0,0,0,0,0,0,0,0,0,1,0,1
+707,"DP: Database and File Management or Data Structures (Data Processing)",0,1,0,0,0,0,0,0,0,0,0,0,1
+713,"Support (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,0,0,0,0,1,0,1

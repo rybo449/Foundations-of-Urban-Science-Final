@@ -1,0 +1,105 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+713,"Support (Electrical Computers and Digital Processing Systems)",2,2,3,2,2,1,3,7,4,1,3,3,33
+714,"Error Detection/Correction and Fault Detection/Recovery",0,1,0,0,0,1,3,0,3,6,5,4,23
+361,"Electricity:  Electrical Systems and Devices",4,3,6,1,1,2,2,1,1,0,0,0,21
+711,"Memory (Electrical Computers and Digital Processing Systems)",0,0,0,1,1,1,1,2,5,1,0,4,16
+710,"Input/Output (Electrical Computers and Digital Processing Systems)",2,0,0,1,1,1,3,3,1,0,0,1,13
+210,"Liquid Purification or Separation",2,2,1,0,2,2,1,0,0,1,1,0,12
+029,"Metal Working",0,2,2,3,0,0,0,1,0,0,0,0,8
+439,"Electrical Connectors",1,0,3,0,0,1,0,1,0,0,1,1,8
+702,"DP: Measuring, Calibrating, or Testing (Data Processing)",0,0,1,0,1,1,2,0,2,1,0,0,8
+323,"Electricity:  Power Supply or Regulation Systems",0,1,2,0,0,0,1,0,1,0,1,0,6
+324,"Electricity:  Measuring and Testing",0,0,0,0,2,0,1,1,0,1,1,0,6
+363,"Electric Power Conversion Systems",2,0,1,1,1,0,0,1,0,0,0,0,6
+365,"Static Information Storage and Retrieval",0,0,0,0,1,0,0,1,2,0,0,2,6
+606,"Surgery (instruments)",0,6,0,0,0,0,0,0,0,0,0,0,6
+047,"Plant Husbandry",0,0,0,0,0,0,1,0,1,1,1,1,5
+165,"Heat Exchange",0,1,1,0,0,2,1,0,0,0,0,0,5
+307,"Electrical Transmission or Interconnection Systems",0,2,0,1,1,0,0,0,0,0,0,1,5
+424,"Drug, Bio-Affecting and Body Treating Compositions (includes Class 514)",0,0,0,1,0,0,0,0,0,0,2,2,5
+426,"Food or Edible Material:  Processes, Compositions, and Products",0,0,1,1,0,1,0,1,0,0,1,0,5
+083,"Cutting",0,1,0,0,2,0,1,0,0,0,0,0,4
+114,"Ships",1,1,0,0,0,0,0,0,0,1,0,1,4
+248,"Supports (e.g., for holding articles, etc.)",1,1,0,0,0,1,1,0,0,0,0,0,4
+073,"Measuring and Testing",0,0,0,0,2,1,0,0,0,0,0,0,3
+128,"Surgery (includes Class 600)",0,0,0,0,1,0,0,0,1,0,1,0,3
+229,"Envelopes, Wrappers, and Paperboard Boxes",0,1,1,1,0,0,0,0,0,0,0,0,3
+235,"Registers (e.g., cash registers, calculators, devices for counting movements of devices, etc.)",1,0,0,0,0,0,0,0,1,0,1,0,3
+257,"Active Solid-State Devices (e.g., Transistors, Solid-State Diodes)",0,0,0,0,2,0,0,0,0,0,1,0,3
+280,"Land Vehicles",0,0,0,0,0,0,1,0,1,0,1,0,3
+326,"Electronic Digital Logic Circuitry",0,0,0,1,0,0,1,0,1,0,0,0,3
+327,"Miscellaneous Active Electrical Nonlinear Devices, Circuits, and Systems",0,0,2,0,0,0,0,0,0,1,0,0,3
+340,"Communications:  Electrical",0,0,0,0,0,1,0,0,1,0,0,1,3
+345,"Computer Graphics Processing and Selective Visual Display Systems",0,0,0,1,0,0,1,0,1,0,0,0,3
+370,"Multiplex Communications",0,0,0,0,0,0,0,0,1,0,1,1,3
+375,"Pulse or Digital Communications",0,0,0,0,0,0,1,1,0,0,1,0,3
+422,"Chemical Apparatus and Process Disinfecting, Deodorizing, Preserving, or Sterilizing",0,0,1,0,0,0,0,1,0,0,0,1,3
+482,"Exercise Devices",0,0,0,0,0,0,1,1,0,0,0,1,3
+709,"Multicomputer Data Transferring (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,1,0,0,1,1,0,3
+717,"DP: Software Development, Installation, and Management (Data Processing)",0,0,0,0,0,0,0,1,0,0,1,1,3
+718,"Virtual Machine Task or Process Management or Task Management/Control (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,0,0,1,0,1,1,3
+016,"Miscellaneous Hardware",0,0,1,0,0,0,0,0,0,0,0,1,2
+042,"Firearms",0,0,0,0,0,0,0,0,1,1,0,0,2
+052,"Static Structures (e.g., Buildings)",0,1,0,0,0,1,0,0,0,0,0,0,2
+062,"Refrigeration",0,0,0,0,0,0,0,1,0,0,1,0,2
+084,"Music",1,0,1,0,0,0,0,0,0,0,0,0,2
+086,"Ammunition and Explosive-Charge Making",0,0,0,0,0,0,0,0,0,0,2,0,2
+119,"Animal Husbandry",0,0,1,1,0,0,0,0,0,0,0,0,2
+123,"Internal-Combustion Engines",0,0,0,1,0,0,1,0,0,0,0,0,2
+144,"Woodworking",0,1,0,0,0,0,0,0,0,0,0,1,2
+156,"Adhesive Bonding and Miscellaneous Chemical Manufacture",0,0,0,0,0,0,0,1,1,0,0,0,2
+264,"Plastic and Nonmetallic Article Shaping or Treating: Processes",0,1,0,1,0,0,0,0,0,0,0,0,2
+310,"Electrical Generator or Motor Structure",0,0,0,0,2,0,0,0,0,0,0,0,2
+331,"Oscillators",0,0,0,0,0,0,2,0,0,0,0,0,2
+379,"Telephonic Communications",0,0,0,0,1,1,0,0,0,0,0,0,2
+400,"Typewriting Machines",0,0,0,1,0,1,0,0,0,0,0,0,2
+428,"Stock Material or Miscellaneous Articles",0,0,1,0,1,0,0,0,0,0,0,0,2
+434,"Education and Demonstration",0,0,0,0,0,0,0,0,0,0,1,1,2
+435,"Chemistry: Molecular Biology and Microbiology",0,0,0,0,0,0,0,0,0,0,0,2,2
+454,"Ventilation",0,0,2,0,0,0,0,0,0,0,0,0,2
+703,"DP: Structural Design, Modeling, Simulation, and Emulation (Data Processing)",0,0,0,0,0,0,0,1,0,1,0,0,2
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",0,0,0,0,0,0,0,0,0,0,1,1,2
+719,"Interprogram Communication or Interprocess Communication (Ipc) (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,1,0,1,0,0,0,2
+014,"Bridges",0,0,0,0,0,0,1,0,0,0,0,0,1
+034,"Drying and Gas or Vapor Contact with Solids",0,0,0,1,0,0,0,0,0,0,0,0,1
+043,"Fishing, Trapping, and Vermin Destroying",1,0,0,0,0,0,0,0,0,0,0,0,1
+049,"Movable or Removable Closures",0,0,0,0,0,0,0,0,0,0,0,1,1
+053,"Package Making",0,0,1,0,0,0,0,0,0,0,0,0,1
+054,"Harness for Working Animal",0,0,0,1,0,0,0,0,0,0,0,0,1
+071,"Chemistry: Fertilizers",0,0,0,0,0,0,0,0,0,0,1,0,1
+072,"Metal Deforming",0,0,0,0,0,0,1,0,0,0,0,0,1
+099,"Foods and Beverages: Apparatus",0,0,0,1,0,0,0,0,0,0,0,0,1
+104,"Railways",1,0,0,0,0,0,0,0,0,0,0,0,1
+125,"Stone Working",0,0,0,0,0,0,0,0,1,0,0,0,1
+134,"Cleaning and Liquid Contact with Solids",0,0,0,0,0,0,0,0,0,0,0,1,1
+172,"Earth Working",0,0,0,0,1,0,0,0,0,0,0,0,1
+174,"Electricity:  Conductors and Insulators",0,0,0,0,0,0,0,1,0,0,0,0,1
+180,"Motor Vehicles",0,0,0,1,0,0,0,0,0,0,0,0,1
+206,"Special Receptacle or Package",0,0,0,1,0,0,0,0,0,0,0,0,1
+222,"Dispensing (apparatus and process)",0,0,0,1,0,0,0,0,0,0,0,0,1
+228,"Metal Fusion Bonding",0,0,0,1,0,0,0,0,0,0,0,0,1
+241,"Solid Material Comminution or Disintegration",0,0,0,0,0,0,0,0,0,1,0,0,1
+256,"Fences",0,0,0,0,0,0,0,0,0,0,0,1,1
+269,"Work Holders",0,0,1,0,0,0,0,0,0,0,0,0,1
+273,"Amusement Devices:  Games",0,0,0,0,0,1,0,0,0,0,0,0,1
+293,"Vehicle Fenders",1,0,0,0,0,0,0,0,0,0,0,0,1
+296,"Land Vehicles:  Bodies and Tops",0,0,1,0,0,0,0,0,0,0,0,0,1
+297,"Chairs and Seats",0,0,0,0,0,0,0,0,0,1,0,0,1
+299,"Mining or In Situ Disintegration of Hard Material",0,1,0,0,0,0,0,0,0,0,0,0,1
+312,"Supports:  Cabinet Structure",0,0,0,0,1,0,0,0,0,0,0,0,1
+341,"Coded Data Generation or Conversion",0,1,0,0,0,0,0,0,0,0,0,0,1
+348,"Television",1,0,0,0,0,0,0,0,0,0,0,0,1
+362,"Illumination",0,0,0,0,0,0,0,0,1,0,0,0,1
+381,"Electrical Audio Signal Processing Systems and Devices",0,0,0,0,0,0,0,0,0,0,1,0,1
+382,"Image Analysis",0,0,0,0,0,0,0,0,0,0,0,1,1
+384,"Bearings",0,0,0,0,1,0,0,0,0,0,0,0,1
+427,"Coating Processes",0,1,0,0,0,0,0,0,0,0,0,0,1
+451,"Abrading",0,0,1,0,0,0,0,0,0,0,0,0,1
+455,"Telecommunications",0,0,0,0,0,0,0,0,0,1,0,0,1
+493,"Manufacturing Container or Tube From Paper; or Other Manufacturing From a Sheet or Web",0,0,0,1,0,0,0,0,0,0,0,0,1
+520,"Synthetic Resins or Natural Rubbers (includes Classes 520-528)",0,0,0,0,0,0,0,0,0,0,1,0,1
+532,"Organic Compounds (includes Classes 532-570)",0,0,0,0,0,0,0,0,0,1,0,0,1
+700,"DP: Generic Control Systems or Specific Applications (Data Processing)",0,0,0,0,0,0,0,1,0,0,0,0,1
+707,"DP: Database and File Management or Data Structures (Data Processing)",0,0,0,1,0,0,0,0,0,0,0,0,1
+712,"Processing Architectures and Instruction Processing, e.g., Processors (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,0,0,0,0,1,0,1
+726,"Information Security",0,0,0,0,0,0,0,0,1,0,0,0,1

@@ -1,0 +1,295 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+438,"Semiconductor Device Manufacturing: Process",183,158,153,99,90,92,80,112,89,103,131,76,1366
+711,"Memory (Electrical Computers and Digital Processing Systems)",100,115,137,107,93,80,120,96,125,119,110,106,1308
+709,"Multicomputer Data Transferring (Electrical Computers and Digital Processing Systems)",46,62,42,72,80,81,102,69,117,156,160,171,1158
+714,"Error Detection/Correction and Fault Detection/Recovery",58,46,61,84,66,71,79,67,99,95,113,97,936
+713,"Support (Electrical Computers and Digital Processing Systems)",29,24,48,49,75,58,91,69,111,119,120,139,932
+710,"Input/Output (Electrical Computers and Digital Processing Systems)",86,64,66,82,94,77,74,54,52,74,79,86,888
+712,"Processing Architectures and Instruction Processing, e.g., Processors (Electrical Computers and Digital Processing Systems)",93,98,63,48,50,49,53,58,69,47,69,67,764
+707,"DP: Database and File Management or Data Structures (Data Processing)",29,38,46,46,60,50,53,49,45,66,102,102,686
+370,"Multiplex Communications",25,24,21,23,34,30,52,45,69,108,116,104,651
+257,"Active Solid-State Devices (e.g., Transistors, Solid-State Diodes)",103,68,46,35,40,36,37,47,34,49,56,46,597
+715,"DP: Presentation Processing of Document, Operator Interface Processing, and Screen Saver Display Processing (Data Processing)",35,29,40,53,49,63,50,39,42,64,52,59,575
+361,"Electricity:  Electrical Systems and Devices",64,82,46,50,47,35,26,37,45,56,48,34,570
+717,"DP: Software Development, Installation, and Management (Data Processing)",32,46,35,42,35,33,38,29,34,55,65,74,518
+700,"DP: Generic Control Systems or Specific Applications (Data Processing)",16,22,36,57,64,58,66,36,34,35,42,44,510
+379,"Telephonic Communications",21,30,26,33,38,46,65,53,37,38,26,52,465
+455,"Telecommunications",10,13,12,16,23,21,47,54,55,54,67,91,463
+365,"Static Information Storage and Retrieval",38,38,27,25,32,20,32,48,50,44,54,39,447
+375,"Pulse or Digital Communications",28,28,23,27,26,30,43,33,32,53,72,40,435
+716,"Computer-Aided Design and Analysis of Circuits and Semiconductor Masks",11,14,30,31,26,18,43,35,66,30,58,67,429
+702,"DP: Measuring, Calibrating, or Testing (Data Processing)",11,16,37,46,33,40,38,57,38,48,27,30,421
+327,"Miscellaneous Active Electrical Nonlinear Devices, Circuits, and Systems",34,35,33,48,23,30,31,44,34,31,39,24,406
+341,"Coded Data Generation or Conversion",30,34,43,41,30,34,23,57,40,19,18,15,384
+345,"Computer Graphics Processing and Selective Visual Display Systems",37,39,29,46,29,25,26,26,23,20,20,27,347
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",9,5,7,12,5,14,33,15,35,44,79,72,330
+326,"Electronic Digital Logic Circuitry",30,29,16,24,24,33,29,37,28,18,21,14,303
+726,"Information Security",8,8,10,9,17,16,26,20,29,46,43,50,282
+324,"Electricity:  Measuring and Testing",16,15,27,23,24,27,12,14,35,24,29,18,264
+708,"Arithmetic Processing and Calculating (Electrical Computers)",23,35,17,20,9,15,11,12,18,13,20,16,209
+703,"DP: Structural Design, Modeling, Simulation, and Emulation (Data Processing)",13,18,6,6,9,23,29,18,17,12,19,31,201
+340,"Communications:  Electrical",10,9,11,9,14,14,14,14,18,21,19,27,180
+718,"Virtual Machine Task or Process Management or Task Management/Control (Electrical Computers and Digital Processing Systems)",2,6,11,9,18,15,15,11,21,15,29,26,178
+330,"Amplifiers",2,8,7,9,14,12,21,20,20,14,21,16,164
+382,"Image Analysis",3,9,12,12,24,14,18,13,7,15,13,21,161
+719,"Interprogram Communication or Interprocess Communication (Ipc) (Electrical Computers and Digital Processing Systems)",0,11,9,11,17,7,10,13,14,11,13,30,146
+385,"Optical Waveguides",7,9,11,25,21,18,18,8,14,6,5,3,145
+348,"Television",7,4,7,10,19,6,10,10,21,17,13,20,144
+439,"Electrical Connectors",6,6,12,11,9,7,17,9,12,16,23,13,141
+430,"Radiation Imagery Chemistry: Process, Composition, or Product Thereof",12,5,17,22,23,15,8,8,6,9,6,6,137
+704,"DP: Speech Signal Processing, Linguistics, Language Translation, and Audio Compression/Decompression (Data Processing)",13,15,13,6,8,8,12,9,13,12,10,15,134
+331,"Oscillators",12,12,8,6,11,5,8,24,16,9,12,6,129
+356,"Optics:  Measuring and Testing",6,4,4,15,21,11,7,9,6,15,6,12,116
+323,"Electricity:  Power Supply or Regulation Systems",5,9,6,4,3,6,6,7,13,16,12,20,107
+235,"Registers (e.g., cash registers, calculators, devices for counting movements of devices, etc.)",3,4,5,6,12,5,9,10,15,12,11,14,106
+623,"Prosthesis (i.e., Artificial Body Members), Parts Thereof, or Aids and Accessories Therefor",17,22,12,9,13,4,6,2,2,2,10,7,106
+250,"Radiant Energy",6,7,6,8,8,4,10,10,11,10,13,8,101
+435,"Chemistry: Molecular Biology and Microbiology",10,11,8,14,7,3,9,6,5,6,4,15,98
+174,"Electricity:  Conductors and Insulators",5,12,12,7,5,5,6,13,6,8,6,11,96
+073,"Measuring and Testing",15,12,7,8,6,7,10,3,7,6,3,5,89
+424,"Drug, Bio-Affecting and Body Treating Compositions (includes Class 514)",4,4,7,13,12,6,6,8,5,8,7,9,89
+706,"DP: Artificial Intelligence (Data Processing)",6,8,1,6,8,9,10,7,4,8,9,12,88
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",3,17,5,9,7,9,7,6,6,6,3,3,81
+606,"Surgery (instruments)",11,6,6,8,3,4,1,7,5,4,7,18,80
+359,"Optical: Systems and Elements",4,7,6,8,5,5,10,12,2,8,3,5,75
+381,"Electrical Audio Signal Processing Systems and Devices",7,4,3,5,3,2,4,3,1,8,15,16,71
+428,"Stock Material or Miscellaneous Articles",10,5,13,6,4,6,2,4,6,1,6,2,65
+362,"Illumination",3,7,6,3,2,4,6,2,2,9,7,12,63
+451,"Abrading",11,11,7,11,3,5,6,2,2,3,0,2,63
+532,"Organic Compounds (includes Classes 532-570)",8,7,8,8,5,4,9,3,2,2,3,4,63
+353,"Optics:  Image Projectors",3,1,4,12,6,5,10,6,6,2,4,3,62
+320,"Electricity:  Battery or Capacitor Charging or Discharging",4,6,1,1,4,6,0,0,8,15,11,4,60
+307,"Electrical Transmission or Interconnection Systems",0,3,1,4,2,4,7,5,4,11,10,7,58
+520,"Synthetic Resins or Natural Rubbers (includes Classes 520-528)",6,4,7,8,2,6,2,5,2,4,6,3,55
+463,"Amusement Devices: Games",1,2,2,3,2,4,1,3,3,6,16,12,55
+380,"Cryptography",4,2,1,0,3,4,8,3,3,12,7,6,53
+128,"Surgery (includes Class 600)",8,2,10,6,2,3,2,6,1,0,4,8,52
+315,"Electric Lamp and Discharge Devices:  Systems",2,4,6,13,3,6,5,4,1,0,5,3,52
+363,"Electric Power Conversion Systems",4,3,0,2,2,0,3,4,4,6,12,11,51
+029,"Metal Working",6,8,1,3,4,1,3,2,6,6,5,4,49
+264,"Plastic and Nonmetallic Article Shaping or Treating: Processes",2,0,1,0,1,2,3,2,3,1,19,14,48
+358,"Facsimile and Static Presentation Processing",2,2,4,5,3,8,4,2,5,1,4,4,44
+219,"Electric Heating",6,6,6,3,3,3,5,5,1,2,4,0,44
+427,"Coating Processes",3,5,4,1,2,4,1,3,4,4,2,9,42
+343,"Communications:  Radio Wave Antennas",4,4,3,5,3,2,2,4,3,3,6,2,41
+062,"Refrigeration",6,4,7,8,1,2,4,2,2,1,3,1,41
+166,"Wells (shafts or deep borings in the earth, e.g., for oil and gas)",1,2,3,3,2,0,3,7,5,2,7,5,40
+210,"Liquid Purification or Separation",6,8,3,5,5,0,6,2,1,2,0,2,40
+313,"Electric Lamp and Discharge Devices",5,3,4,6,5,8,1,2,0,1,4,1,40
+414,"Material or Article Handling",6,4,5,4,5,2,1,2,2,1,5,1,38
+725,"Interactive Video Distribution Systems",0,4,0,0,0,1,4,2,0,12,8,7,38
+206,"Special Receptacle or Package",3,4,5,3,1,5,5,1,7,0,3,1,38
+369,"Dynamic Information Storage or Retrieval",1,0,3,3,0,2,4,3,7,5,6,2,36
+510,"Cleaning Compositions for Solid Surfaces, Auxiliary Compositions Therefor, or Processes of Preparing the Compositions",7,2,5,9,2,3,3,1,0,2,0,1,35
+204,"Chemistry:  Electrical and Wave Energy",2,3,4,8,6,2,1,3,3,2,1,0,35
+396,"Photography",1,1,6,7,6,4,0,1,1,3,2,3,35
+156,"Adhesive Bonding and Miscellaneous Chemical Manufacture",3,6,6,2,1,4,0,1,4,0,2,4,33
+216,"Etching a Substrate:  Processes",0,2,3,2,4,1,1,9,4,2,1,4,33
+118,"Coating Apparatus",7,6,2,5,3,0,1,1,0,2,3,2,32
+425,"Plastic Article or Earthenware Shaping or Treating: Apparatus",0,0,0,0,1,1,4,6,5,3,6,5,31
+175,"Boring or Penetrating the Earth",0,1,3,1,3,1,1,2,2,4,6,5,29
+342,"Communications:  Directive Radio Wave Systems and Devices (e.g., Radar, Radio Navigation)",3,6,3,0,3,0,5,1,0,4,2,2,29
+134,"Cleaning and Liquid Contact with Solids",3,3,5,3,5,1,1,0,2,0,2,3,28
+310,"Electrical Generator or Motor Structure",3,3,0,0,1,2,3,2,2,4,5,3,28
+436,"Chemistry: Analytical and Immunological Testing",2,1,1,1,3,3,2,1,1,5,5,3,28
+211,"Supports:  Racks",5,4,3,2,3,2,2,2,0,0,1,3,27
+137,"Fluid Handling",4,3,1,6,1,2,2,2,3,0,1,2,27
+360,"Dynamic Magnetic Information Storage or Retrieval",5,1,3,4,4,1,4,1,1,0,1,2,27
+422,"Chemical Apparatus and Process Disinfecting, Deodorizing, Preserving, or Sterilizing",2,3,2,3,3,0,1,4,2,1,2,3,26
+084,"Music",3,1,2,0,2,0,2,1,4,2,4,5,26
+398,"Optical Communications",2,1,0,0,0,2,6,2,1,3,0,8,25
+205,"Electrolysis:  Processes, Compositions Used Therein, and Methods of Preparing the Compositions",3,9,1,2,1,0,2,0,3,0,1,3,25
+482,"Exercise Devices",0,2,1,2,3,2,5,0,0,3,3,3,24
+386,"Motion Video Signal Processing for Recording or Reproducing",1,1,0,2,1,1,0,5,3,4,2,4,24
+423,"Chemistry of Inorganic Compounds",1,3,2,1,2,0,1,1,1,5,2,5,24
+280,"Land Vehicles",3,1,2,1,3,2,1,4,0,1,2,4,24
+333,"Wave Transmission Lines and Networks",2,1,3,2,1,3,0,4,3,3,0,2,24
+318,"Electricity:  Motive Power Systems",5,3,1,5,1,1,1,1,1,2,0,3,24
+367,"Communications, Electrical: Acoustic Wave Systems and Devices",2,2,1,3,1,3,3,2,2,2,0,3,24
+052,"Static Structures (e.g., Buildings)",0,2,4,2,0,2,3,1,0,2,5,2,23
+355,"Photocopying",0,2,2,1,1,4,3,6,1,2,1,0,23
+429,"Chemistry:  Electrical Current Producing Apparatus, Product, and Process",1,2,1,1,0,0,1,4,2,0,4,7,23
+473,"Games Using Tangible Projectile",2,1,2,4,2,0,3,1,1,2,1,3,22
+347,"Incremental Printing of Symbolic Information",0,0,2,1,1,2,2,5,0,3,0,4,20
+374,"Thermal Measuring and Testing",1,1,3,1,1,0,3,0,3,4,1,1,19
+114,"Ships",0,0,0,0,1,2,5,5,1,1,2,1,18
+604,"Surgery (Medicators and Receptors)",1,4,0,0,0,0,2,0,1,1,5,4,18
+123,"Internal-Combustion Engines",2,4,2,0,0,0,3,2,0,2,0,2,17
+005,"Beds",0,0,1,2,0,2,1,1,0,4,1,4,16
+248,"Supports (e.g., for holding articles, etc.)",2,7,1,0,2,0,1,0,1,1,1,0,16
+042,"Firearms",1,0,0,0,1,0,3,4,0,1,1,4,15
+377,"Electrical Pulse Counters, Pulse Dividers, or Shift Registers:  Circuits and Systems",0,2,3,0,1,3,3,0,1,1,1,0,15
+141,"Fluent Material Handling, with Receiver or Receiver Coacting Means",4,1,0,1,3,2,0,2,1,0,0,0,14
+033,"Geometrical Instruments",1,0,3,1,1,2,1,0,1,1,1,2,14
+273,"Amusement Devices:  Games",2,1,0,2,1,3,1,0,0,1,2,1,14
+251,"Valves and Valve Actuation",0,1,2,1,1,2,2,1,0,3,1,0,14
+136,"Batteries:  Thermoelectric and Photoelectric",1,1,3,2,1,1,0,0,0,0,3,2,14
+530,"Chemistry:  Natural Resins or Derivatives; Peptides or Proteins; Lignins or Reaction Products Thereof",1,0,0,1,0,1,2,2,2,3,1,1,14
+095,"Gas Separation:  Processes",1,1,0,2,1,0,2,1,0,2,0,4,14
+060,"Power Plants",1,1,2,0,0,3,2,1,0,1,1,1,13
+004,"Baths, Closets, Sinks, and Spittoons",3,1,0,1,0,1,0,2,0,0,3,2,13
+119,"Animal Husbandry",0,0,0,2,0,0,2,2,0,1,3,2,12
+378,"X-Ray or Gamma Ray Systems or Devices",2,1,2,1,1,0,1,0,0,1,2,1,12
+024,"Buckles, Buttons, Clasps, Etc.",2,1,2,1,1,0,1,1,0,1,1,1,12
+228,"Metal Fusion Bonding",3,0,2,2,3,0,0,0,1,0,0,1,12
+417,"Pumps",0,3,2,3,0,2,0,1,0,1,0,0,12
+290,"Prime-Mover Dynamo Plants",0,1,0,2,1,0,1,1,3,1,1,1,12
+445,"Electric Lamp or Space Discharge Component or Device Manufacturing",1,2,0,1,1,1,3,0,0,0,1,1,11
+368,"Horology: Time Measuring Systems or Devices",1,0,0,1,3,3,0,1,0,0,0,2,11
+476,"Friction Gear Transmission Systems or Components",0,0,0,0,0,0,0,0,0,0,3,7,10
+070,"Locks",1,0,5,2,0,0,0,0,0,1,0,1,10
+002,"Apparel",1,1,3,0,2,0,0,1,2,0,0,0,10
+372,"Coherent Light Generators",2,0,1,2,0,1,1,0,1,1,0,1,10
+117,"Single-Crystal, Oriented-Crystal, and Epitaxy Growth Processes; Non-Coating Apparatus Therefor",1,0,0,2,0,1,1,0,2,0,2,1,10
+440,"Marine Propulsion",2,1,0,0,0,0,1,2,3,0,1,0,10
+585,"Chemistry of Hydrocarbon Compounds",3,0,0,3,1,0,0,0,1,0,1,0,9
+312,"Supports:  Cabinet Structure",1,0,3,0,1,0,0,0,1,1,0,1,8
+297,"Chairs and Seats",1,0,0,0,3,0,2,0,0,2,0,0,8
+200,"Electricity:  Circuit Makers and Breakers",2,1,0,1,0,0,0,1,0,0,2,1,8
+030,"Cutlery",3,3,1,0,1,0,0,0,0,0,0,0,8
+034,"Drying and Gas or Vapor Contact with Solids",0,2,0,0,3,2,1,0,0,0,0,0,8
+181,"Acoustics",1,0,1,1,2,0,0,1,1,0,0,1,8
+015,"Brushing, Scrubbing, and General Cleaning",1,0,1,0,1,1,0,2,2,0,0,0,8
+148,"Metal Treatment",0,0,0,0,0,1,0,1,3,1,1,0,7
+040,"Card, Picture, or Sign Exhibiting",0,0,0,0,0,1,1,1,0,1,2,1,7
+399,"Electrophotography",2,0,0,1,1,1,1,1,0,0,0,0,7
+102,"Ammunition and Explosives",0,1,0,0,0,0,0,1,0,2,3,0,7
+292,"Closure Fasteners",1,0,1,3,0,0,0,0,0,0,2,0,7
+404,"Road Structure, Process, or Apparatus",1,0,0,0,0,1,0,0,0,2,3,0,7
+252,"Compositions",0,2,0,0,0,1,1,0,0,0,2,1,7
+336,"Inductor Devices",0,1,0,0,0,0,1,2,1,1,0,1,7
+411,"Expanded, Threaded, Driven, Headed, Tool-Deformed, or Locked-Threaded Fastener",0,3,0,0,1,1,0,0,0,1,0,1,7
+016,"Miscellaneous Hardware",1,0,0,0,1,1,1,0,0,1,1,1,7
+165,"Heat Exchange",1,1,0,0,0,3,1,0,0,0,0,1,7
+209,"Classifying, Separating, and Assorting Solids",0,0,3,3,0,1,0,0,0,0,0,0,7
+222,"Dispensing (apparatus and process)",0,2,0,1,1,0,2,0,0,0,0,1,7
+454,"Ventilation",1,0,1,0,0,0,0,0,2,0,1,2,7
+502,"Catalyst, Solid Sorbent, or Support Therefor:  Product or Process of Making",2,0,0,0,0,0,1,2,0,1,0,1,7
+505,"Superconductor Technology:  Apparatus, Material, Process",0,1,1,2,0,2,0,0,0,0,0,0,6
+588,"Hazardous or Toxic Waste Destruction or Containment",2,0,1,0,1,0,1,0,1,0,0,0,6
+075,"Specialized Metallurgical Processes, Compositions for Use Therein, Consolidated Metal Powder Compositions, and Loose Metal Particulate Mixtures",1,0,0,1,0,2,0,1,0,0,0,1,6
+285,"Pipe Joints or Couplings",0,0,0,1,2,0,0,2,1,0,0,0,6
+198,"Conveyors:  Power-Driven",1,0,0,1,1,0,0,0,3,0,0,0,6
+332,"Modulators",0,0,0,1,0,0,0,0,0,0,3,2,6
+053,"Package Making",0,0,1,1,0,0,1,1,0,0,1,1,6
+074,"Machine Element or Mechanism",1,1,0,1,1,0,0,0,0,0,0,2,6
+220,"Receptacles",0,1,1,2,0,0,0,0,0,0,2,0,6
+241,"Solid Material Comminution or Disintegration",1,0,1,1,0,0,0,0,0,0,0,3,6
+434,"Education and Demonstration",0,1,0,2,1,0,0,0,0,0,0,2,6
+720,"Dynamic Optical Information Storage or Retrieval",0,2,1,1,0,0,0,0,0,0,1,1,6
+349,"Liquid Crystal Cells, Elements and Systems",0,3,0,1,0,0,1,0,0,1,0,0,6
+037,"Excavating",2,1,0,0,0,1,0,0,0,0,0,1,5
+254,"Implements or Apparatus for Applying Pushing or Pulling Force",1,0,1,1,0,1,0,0,0,0,1,0,5
+081,"Tools",1,1,1,0,1,0,0,1,0,0,0,0,5
+239,"Fluid Sprinkling, Spraying, and Diffusing",0,0,0,0,0,0,0,1,0,0,1,3,5
+507,"Earth Boring, Well Treating, and Oil Field Chemistry",0,0,0,0,0,0,1,0,0,1,2,1,5
+043,"Fishing, Trapping, and Vermin Destroying",1,0,0,1,0,0,0,1,0,0,2,0,5
+108,"Horizontally Supported Planar Surfaces",3,0,0,1,0,0,0,1,0,0,0,0,5
+177,"Weighing Scales",0,1,0,0,1,0,0,1,1,1,0,0,5
+221,"Article Dispensing",1,1,1,0,0,0,2,0,0,0,0,0,5
+244,"Aeronautics and Astronautics",0,2,2,0,0,0,0,0,0,1,0,0,5
+392,"Electric Resistance Heating Devices",2,1,0,0,0,1,0,0,0,0,1,0,5
+203,"Distillation: Processes, Separatory",1,1,1,0,0,0,0,2,0,0,0,0,5
+474,"Endless Belt Power Transmission Systems or Components",2,1,0,1,0,0,0,0,0,0,0,0,4
+516,"Colloid Systems and Wetting Agents, Subcombinations Thereof, Processes of Making, Stabilizing, Breaking, or Inhibiting",1,0,0,0,1,1,0,1,0,0,0,0,4
+182,"Fire Escape, Ladder, or Scaffold",0,0,1,0,0,1,1,0,0,0,0,1,4
+242,"Winding, Tensioning, or Guiding",2,0,0,1,0,0,0,0,0,0,0,1,4
+047,"Plant Husbandry",0,0,1,1,0,0,0,0,0,0,1,1,4
+400,"Typewriting Machines",0,0,0,0,1,0,0,1,2,0,0,0,4
+441,"Buoys, Rafts, and Aquatic Devices",0,1,0,0,1,1,0,0,0,0,1,0,4
+607,"Surgery: Light, Thermal, and Electrical Application",0,1,0,0,0,0,1,0,1,0,1,0,4
+089,"Ordnance",0,0,0,1,0,1,1,0,0,0,0,1,4
+096,"Gas Separation:  Apparatus",0,0,0,2,0,0,0,0,1,0,1,0,4
+101,"Printing",1,0,0,0,1,2,0,0,0,0,0,0,4
+224,"Package and Article Carriers",1,0,1,0,1,0,0,0,0,0,1,0,4
+296,"Land Vehicles:  Bodies and Tops",0,0,0,1,1,0,1,0,0,0,0,1,4
+475,"Planetary Gear Transmission Systems or Components",0,0,0,0,0,0,1,0,1,0,1,1,4
+014,"Bridges",0,0,0,0,1,0,1,0,1,0,0,0,3
+138,"Pipes and Tubular Conduits",2,0,0,1,0,0,0,0,0,0,0,0,3
+160,"Flexible or Portable Closure, Partition, or Panel",0,1,1,1,0,0,0,0,0,0,0,0,3
+294,"Handling:  Hand and Hoist-Line Implements",0,1,0,0,1,0,0,0,0,0,0,1,3
+403,"Joints and Connections",0,1,0,0,0,0,0,0,1,0,0,1,3
+504,"Plant Protecting and Regulating Compositions",0,0,1,0,0,1,0,1,0,0,0,0,3
+072,"Metal Deforming",2,0,0,0,0,0,0,0,0,0,0,1,3
+105,"Railway Rolling Stock",0,1,0,0,1,0,1,0,0,0,0,0,3
+106,"Compositions:  Coating or Plastic",0,0,1,0,0,0,1,0,0,0,0,1,3
+256,"Fences",0,1,0,0,1,0,1,0,0,0,0,0,3
+401,"Coating Implements with Material Supply",0,1,0,0,0,0,0,2,0,0,0,0,3
+432,"Heating",0,0,0,0,1,1,0,0,0,0,1,0,3
+506,"Combinatorial Chemistry Technology:  Method, Library, Apparatus",0,0,0,0,1,0,0,0,1,0,1,0,3
+008,"Bleaching and Dyeing; Fluid Treatment and Chemical Modification of Textiles and Fibers",0,0,0,2,0,0,0,0,0,0,0,1,3
+044,"Fuel and Related Compositions",1,1,0,0,0,0,0,0,0,0,1,0,3
+116,"Signals and Indicators",1,0,0,0,0,0,0,0,0,0,2,0,3
+135,"Tent, Canopy, Umbrella, or Cane",0,1,0,0,1,0,0,0,0,0,0,1,3
+162,"Paper Making and Fiber Liberation",0,0,3,0,0,0,0,0,0,0,0,0,3
+322,"Electricity:  Single Generator Systems",1,0,0,0,0,1,1,0,0,0,0,0,3
+335,"Electricity:  Magnetically Operated Switches, Magnets, and Electromagnets",0,0,0,0,1,0,1,1,0,0,0,0,3
+351,"Optics:  Eye Examining, Vision Testing and Correcting",0,1,0,0,1,0,0,0,1,0,0,0,3
+426,"Food or Edible Material:  Processes, Compositions, and Products",1,0,0,1,1,0,0,0,0,0,0,0,3
+508,"Solid Anti-Friction Devices, Materials Therefor, Lubricant or Separant Compositions for Moving Solid Surfaces, and Miscellaneous Mineral Oil Compositions",0,0,1,1,0,0,0,0,0,1,0,0,3
+056,"Harvesters",0,0,0,0,0,0,1,0,0,1,0,0,2
+099,"Foods and Beverages: Apparatus",1,0,0,0,0,0,0,0,0,1,0,0,2
+180,"Motor Vehicles",0,0,0,0,0,0,0,0,0,0,1,1,2
+366,"Agitating (e.g., of articles and materials)",1,0,0,0,0,0,0,1,0,0,0,0,2
+373,"Industrial Electric Heating Furnaces",0,1,0,0,0,1,0,0,0,0,0,0,2
+405,"Hydraulic and Earth Engineering",0,0,0,0,0,0,1,0,0,0,0,1,2
+419,"Powder Metallurgy Processes",0,0,0,1,0,0,0,0,0,0,1,0,2
+472,"Amusement Devices",0,1,0,0,0,0,1,0,0,0,0,0,2
+007,"Compound Hand Tools",0,1,0,0,0,0,0,0,1,0,0,0,2
+051,"Abrasive Tool Making Process, Material, or Composition",0,1,0,1,0,0,0,0,0,0,0,0,2
+055,"Gas Separation",0,2,0,0,0,0,0,0,0,0,0,0,2
+065,"Glass Manufacturing",0,0,0,0,1,1,0,0,0,0,0,0,2
+092,"Expansible Chamber Devices",0,0,0,0,0,1,0,1,0,0,0,0,2
+104,"Railways",0,0,0,0,0,1,0,0,1,0,0,0,2
+110,"Furnaces",0,1,0,0,0,0,0,0,0,1,0,0,2
+124,"Mechanical Guns and Projectors",1,0,0,0,0,0,0,0,1,0,0,0,2
+150,"Purses, Wallets, and Protective Covers",0,0,0,0,1,0,0,0,0,0,1,0,2
+229,"Envelopes, Wrappers, and Paperboard Boxes",1,0,1,0,0,0,0,0,0,0,0,0,2
+271,"Sheet Feeding or Delivering",0,0,0,0,0,1,0,0,1,0,0,0,2
+277,"Seal for a Joint or Juncture",1,0,0,0,1,0,0,0,0,0,0,0,2
+279,"Chucks or Sockets",0,1,1,0,0,0,0,0,0,0,0,0,2
+283,"Printed Matter",0,0,0,0,0,1,0,0,0,0,1,0,2
+329,"Demodulators",0,0,0,1,0,0,0,0,1,0,0,0,2
+338,"Electrical Resistors",0,0,0,0,0,0,0,0,0,1,0,1,2
+446,"Amusement Devices:  Toys",0,0,0,0,0,1,0,0,0,0,0,1,2
+452,"Butchering",0,0,0,0,0,0,1,0,0,0,1,0,2
+493,"Manufacturing Container or Tube From Paper; or Other Manufacturing From a Sheet or Web",0,0,0,1,0,0,0,0,1,0,0,0,2
+800,"Multicellular Living Organisms and Unmodified Parts Thereof and Related Processes",0,0,1,0,0,0,0,0,0,0,1,0,2
+850,"Scanning-Probe Techniques or Apparatus; Applications of Scanning-Probe Techniques, e.g., Scanning Probe Microscopy [Spm]",0,0,0,0,0,1,0,0,0,1,0,0,2
+082,"Turning (e.g., for metal working)",0,0,0,1,0,0,0,0,0,0,0,0,1
+111,"Planting",0,0,0,0,0,0,0,0,0,0,0,1,1
+122,"Liquid Heaters and Vaporizers",1,0,0,0,0,0,0,0,0,0,0,0,1
+159,"Concentrating Evaporators",0,0,1,0,0,0,0,0,0,0,0,0,1
+215,"Bottles and Jars",0,0,0,0,0,0,1,0,0,0,0,0,1
+232,"Deposit and Collection Receptacles",0,0,0,0,0,0,0,1,0,0,0,0,1
+299,"Mining or In Situ Disintegration of Hard Material",0,0,0,0,0,0,0,0,1,0,0,0,1
+337,"Electricity:  Electrothermally or Thermally Actuated Switches",0,0,0,0,0,1,0,0,0,0,0,0,1
+388,"Electricity:  Motor Control Systems",0,0,1,0,0,0,0,0,0,0,0,0,1
+415,"Rotary Kinetic Fluid Motors or Pumps",0,0,0,0,0,0,0,0,0,0,1,0,1
+416,"Fluid Reaction Surfaces (i.e., Impellers)",0,0,0,0,0,0,0,0,1,0,0,0,1
+431,"Combustion",0,0,0,0,1,0,0,0,0,0,0,0,1
+433,"Dentistry",0,0,1,0,0,0,0,0,0,0,0,0,1
+442,"Fabric (Woven, Knitted, or Nonwoven Textile or Cloth, Etc.)",1,0,0,0,0,0,0,0,0,0,0,0,1
+036,"Boots, Shoes, and Leggings",0,0,0,0,0,0,0,0,0,0,1,0,1
+038,"Textiles:  Ironing or Smoothing",0,0,1,0,0,0,0,0,0,0,0,0,1
+049,"Movable or Removable Closures",0,1,0,0,0,0,0,0,0,0,0,0,1
+063,"Jewelry",0,0,0,0,0,0,1,0,0,0,0,0,1
+083,"Cutting",0,0,0,0,0,1,0,0,0,0,0,0,1
+091,"Motors: Expansible Chamber Type",0,0,0,0,0,0,0,0,0,0,0,1,1
+126,"Stoves and Furnaces",0,0,0,0,0,0,0,0,0,0,0,1,1
+178,"Telegraphy",1,0,0,0,0,0,0,0,0,0,0,0,1
+212,"Traversing Hoists",0,0,0,0,1,0,0,0,0,0,0,0,1
+223,"Apparel Apparatus",0,0,0,0,1,0,0,0,0,0,0,0,1
+236,"Automatic Temperature and Humidity Regulation",0,0,0,0,0,0,1,0,0,0,0,0,1
+261,"Gas and Liquid Contact Apparatus",0,0,0,0,1,0,0,0,0,0,0,0,1
+269,"Work Holders",0,0,0,0,0,0,0,0,0,0,0,1,1
+281,"Books, Strips, and Leaves",0,0,0,0,0,0,0,0,0,1,0,0,1
+293,"Vehicle Fenders",0,0,0,0,0,0,1,0,0,0,0,0,1
+352,"Optics:  Motion Pictures",0,0,1,0,0,0,0,0,0,0,0,0,1
+402,"Binder Device Releasably Engaging Aperture or Notch of Sheet",0,1,0,0,0,0,0,0,0,0,0,0,1
+408,"Cutting by Use of Rotating Axially Moving Tool",0,1,0,0,0,0,0,0,0,0,0,0,1
+410,"Freight Accommodation On Freight Carrier",0,0,0,0,0,0,1,0,0,0,0,0,1
+450,"Foundation Garments",0,0,0,0,0,1,0,0,0,0,0,0,1
+464,"Rotary Shafts, Gudgeons, Housings, and Flexible Couplings for Rotary Shafts",0,0,0,0,0,0,0,0,0,0,0,1,1
+601,"Surgery: Kinesitherapy",0,0,0,0,1,0,0,0,0,0,0,0,1
+602,"Surgery: Splint, Brace, or Bandage",0,0,0,0,0,0,0,0,0,0,0,1,1

@@ -1,0 +1,97 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+606,"Surgery (instruments)",6,7,7,7,4,4,4,3,4,3,17,11,77
+623,"Prosthesis (i.e., Artificial Body Members), Parts Thereof, or Aids and Accessories Therefor",0,2,2,1,3,2,4,3,7,15,18,16,73
+604,"Surgery (Medicators and Receptors)",1,4,2,5,3,3,0,6,1,4,14,15,58
+128,"Surgery (includes Class 600)",2,5,1,3,2,1,1,1,1,4,4,3,28
+250,"Radiant Energy",1,1,2,2,0,3,1,2,1,0,2,1,16
+381,"Electrical Audio Signal Processing Systems and Devices",0,0,2,0,0,0,3,1,0,0,3,1,10
+102,"Ammunition and Explosives",0,0,0,2,1,0,0,0,0,1,0,3,7
+356,"Optics:  Measuring and Testing",0,0,0,0,0,0,0,0,0,0,3,4,7
+424,"Drug, Bio-Affecting and Body Treating Compositions (includes Class 514)",0,0,0,2,1,0,2,2,0,0,0,0,7
+029,"Metal Working",0,0,0,0,0,1,0,0,0,1,2,2,6
+264,"Plastic and Nonmetallic Article Shaping or Treating: Processes",0,0,0,1,0,0,0,0,0,1,3,1,6
+532,"Organic Compounds (includes Classes 532-570)",1,0,0,1,1,1,2,0,0,0,0,0,6
+119,"Animal Husbandry",1,1,1,1,1,0,0,0,0,0,0,0,5
+343,"Communications:  Radio Wave Antennas",0,1,0,2,0,0,0,0,0,0,0,2,5
+405,"Hydraulic and Earth Engineering",0,0,0,1,0,0,3,1,0,0,0,0,5
+427,"Coating Processes",0,0,0,0,0,0,0,0,0,1,1,3,5
+435,"Chemistry: Molecular Biology and Microbiology",2,0,1,1,0,0,0,0,0,1,0,0,5
+439,"Electrical Connectors",0,0,0,1,0,0,0,0,0,1,3,0,5
+073,"Measuring and Testing",0,1,0,0,0,0,2,1,0,0,0,0,4
+089,"Ordnance",0,0,0,0,1,0,1,0,1,1,0,0,4
+204,"Chemistry:  Electrical and Wave Energy",1,0,0,0,0,0,0,1,0,0,2,0,4
+436,"Chemistry: Analytical and Immunological Testing",0,0,1,0,0,1,0,1,0,0,0,1,4
+042,"Firearms",0,0,0,1,0,1,0,0,0,0,1,0,3
+248,"Supports (e.g., for holding articles, etc.)",0,0,0,0,0,0,0,0,0,0,1,2,3
+342,"Communications:  Directive Radio Wave Systems and Devices (e.g., Radar, Radio Navigation)",0,0,0,0,1,1,1,0,0,0,0,0,3
+367,"Communications, Electrical: Acoustic Wave Systems and Devices",0,0,0,0,0,0,0,0,0,0,2,1,3
+520,"Synthetic Resins or Natural Rubbers (includes Classes 520-528)",0,0,1,0,0,1,0,0,0,0,1,0,3
+033,"Geometrical Instruments",1,1,0,0,0,0,0,0,0,0,0,0,2
+052,"Static Structures (e.g., Buildings)",0,0,1,0,1,0,0,0,0,0,0,0,2
+062,"Refrigeration",1,0,1,0,0,0,0,0,0,0,0,0,2
+081,"Tools",0,0,0,0,1,0,0,0,0,0,1,0,2
+099,"Foods and Beverages: Apparatus",0,0,1,0,0,1,0,0,0,0,0,0,2
+137,"Fluid Handling",0,0,0,0,0,0,0,0,0,1,0,1,2
+156,"Adhesive Bonding and Miscellaneous Chemical Manufacture",0,1,0,0,0,0,0,0,0,0,1,0,2
+181,"Acoustics",0,0,1,0,0,0,0,0,1,0,0,0,2
+205,"Electrolysis:  Processes, Compositions Used Therein, and Methods of Preparing the Compositions",0,0,0,0,0,0,1,0,0,0,1,0,2
+235,"Registers (e.g., cash registers, calculators, devices for counting movements of devices, etc.)",0,0,0,1,0,0,0,0,0,0,1,0,2
+254,"Implements or Apparatus for Applying Pushing or Pulling Force",0,0,0,1,1,0,0,0,0,0,0,0,2
+257,"Active Solid-State Devices (e.g., Transistors, Solid-State Diodes)",0,0,0,1,1,0,0,0,0,0,0,0,2
+280,"Land Vehicles",0,0,0,1,0,1,0,0,0,0,0,0,2
+351,"Optics:  Eye Examining, Vision Testing and Correcting",0,0,0,0,0,0,0,0,1,0,1,0,2
+392,"Electric Resistance Heating Devices",0,0,0,0,0,1,1,0,0,0,0,0,2
+403,"Joints and Connections",0,0,0,0,0,0,0,1,0,0,0,1,2
+422,"Chemical Apparatus and Process Disinfecting, Deodorizing, Preserving, or Sterilizing",0,0,0,0,0,1,0,0,0,0,1,0,2
+438,"Semiconductor Device Manufacturing: Process",0,0,0,0,0,0,0,0,1,0,0,1,2
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",1,1,0,0,0,0,0,0,0,0,0,0,2
+706,"DP: Artificial Intelligence (Data Processing)",0,0,0,0,0,0,0,0,0,1,0,1,2
+005,"Beds",0,0,0,0,1,0,0,0,0,0,0,0,1
+016,"Miscellaneous Hardware",0,0,0,0,0,0,0,0,0,0,1,0,1
+040,"Card, Picture, or Sign Exhibiting",0,0,0,1,0,0,0,0,0,0,0,0,1
+056,"Harvesters",0,0,0,0,0,0,0,0,0,0,1,0,1
+074,"Machine Element or Mechanism",0,0,1,0,0,0,0,0,0,0,0,0,1
+108,"Horizontally Supported Planar Surfaces",0,0,0,0,0,0,1,0,0,0,0,0,1
+118,"Coating Apparatus",0,0,0,0,0,0,0,0,0,0,0,1,1
+124,"Mechanical Guns and Projectors",0,1,0,0,0,0,0,0,0,0,0,0,1
+148,"Metal Treatment",0,0,0,0,0,0,0,0,1,0,0,0,1
+149,"Explosive and Thermic Compositions or Charges",0,0,0,0,0,0,0,0,0,0,0,1,1
+164,"Metal Founding",0,0,1,0,0,0,0,0,0,0,0,0,1
+166,"Wells (shafts or deep borings in the earth, e.g., for oil and gas)",0,0,0,0,0,0,0,0,0,0,1,0,1
+169,"Fire Extinguishers",0,0,0,0,0,1,0,0,0,0,0,0,1
+187,"Elevator, Industrial Lift Truck, or Stationary Lift for Vehicle",0,0,0,0,0,0,0,0,0,0,0,1,1
+210,"Liquid Purification or Separation",0,0,1,0,0,0,0,0,0,0,0,0,1
+211,"Supports:  Racks",1,0,0,0,0,0,0,0,0,0,0,0,1
+216,"Etching a Substrate:  Processes",0,0,0,0,0,0,0,0,0,0,0,1,1
+220,"Receptacles",0,0,0,0,1,0,0,0,0,0,0,0,1
+224,"Package and Article Carriers",0,0,1,0,0,0,0,0,0,0,0,0,1
+232,"Deposit and Collection Receptacles",0,0,0,1,0,0,0,0,0,0,0,0,1
+256,"Fences",0,0,0,1,0,0,0,0,0,0,0,0,1
+273,"Amusement Devices:  Games",0,0,0,0,1,0,0,0,0,0,0,0,1
+285,"Pipe Joints or Couplings",0,0,0,0,0,0,0,0,0,0,1,0,1
+294,"Handling:  Hand and Hoist-Line Implements",0,0,0,0,0,0,0,0,0,0,1,0,1
+296,"Land Vehicles:  Bodies and Tops",0,0,0,0,0,0,0,1,0,0,0,0,1
+324,"Electricity:  Measuring and Testing",0,0,0,0,0,1,0,0,0,0,0,0,1
+327,"Miscellaneous Active Electrical Nonlinear Devices, Circuits, and Systems",0,0,0,0,0,1,0,0,0,0,0,0,1
+331,"Oscillators",0,0,0,1,0,0,0,0,0,0,0,0,1
+333,"Wave Transmission Lines and Networks",0,0,0,0,0,0,0,0,1,0,0,0,1
+341,"Coded Data Generation or Conversion",0,0,0,0,1,0,0,0,0,0,0,0,1
+359,"Optical: Systems and Elements",0,0,0,0,0,0,0,0,0,0,0,1,1
+362,"Illumination",0,0,0,0,0,0,1,0,0,0,0,0,1
+374,"Thermal Measuring and Testing",0,0,0,0,0,0,0,0,0,1,0,0,1
+375,"Pulse or Digital Communications",0,0,0,0,0,0,0,0,0,1,0,0,1
+382,"Image Analysis",0,0,0,0,0,0,0,0,0,0,1,0,1
+417,"Pumps",1,0,0,0,0,0,0,0,0,0,0,0,1
+425,"Plastic Article or Earthenware Shaping or Treating: Apparatus",0,0,0,0,0,0,0,0,0,0,0,1,1
+433,"Dentistry",1,0,0,0,0,0,0,0,0,0,0,0,1
+441,"Buoys, Rafts, and Aquatic Devices",0,0,1,0,0,0,0,0,0,0,0,0,1
+455,"Telecommunications",0,0,0,0,0,0,1,0,0,0,0,0,1
+482,"Exercise Devices",0,0,0,0,0,0,0,0,0,0,0,1,1
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",0,0,0,0,0,0,0,0,0,1,0,0,1
+702,"DP: Measuring, Calibrating, or Testing (Data Processing)",0,0,0,0,0,0,0,0,0,0,1,0,1
+703,"DP: Structural Design, Modeling, Simulation, and Emulation (Data Processing)",0,0,0,0,0,0,0,0,0,0,1,0,1
+704,"DP: Speech Signal Processing, Linguistics, Language Translation, and Audio Compression/Decompression (Data Processing)",0,0,0,0,0,0,0,0,1,0,0,0,1
+709,"Multicomputer Data Transferring (Electrical Computers and Digital Processing Systems)",0,1,0,0,0,0,0,0,0,0,0,0,1
+714,"Error Detection/Correction and Fault Detection/Recovery",0,0,0,0,0,1,0,0,0,0,0,0,1
+715,"DP: Presentation Processing of Document, Operator Interface Processing, and Screen Saver Display Processing (Data Processing)",0,0,0,1,0,0,0,0,0,0,0,0,1
+717,"DP: Software Development, Installation, and Management (Data Processing)",0,0,0,0,0,0,0,0,1,0,0,0,1

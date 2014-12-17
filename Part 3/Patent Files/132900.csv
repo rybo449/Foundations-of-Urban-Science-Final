@@ -1,0 +1,49 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+114,"Ships",0,2,0,0,0,1,1,0,0,0,0,0,4
+340,"Communications:  Electrical",0,0,0,0,0,0,2,1,0,1,0,0,4
+030,"Cutlery",1,0,0,0,1,1,0,0,0,0,0,0,3
+047,"Plant Husbandry",0,1,1,0,1,0,0,0,0,0,0,0,3
+081,"Tools",1,0,1,0,1,0,0,0,0,0,0,0,3
+360,"Dynamic Magnetic Information Storage or Retrieval",0,0,0,1,1,0,0,0,0,0,0,1,3
+379,"Telephonic Communications",0,1,0,0,0,0,1,1,0,0,0,0,3
+241,"Solid Material Comminution or Disintegration",0,2,0,0,0,0,0,0,0,0,0,0,2
+248,"Supports (e.g., for holding articles, etc.)",0,0,1,0,1,0,0,0,0,0,0,0,2
+250,"Radiant Energy",0,0,0,0,1,1,0,0,0,0,0,0,2
+318,"Electricity:  Motive Power Systems",0,0,0,0,1,1,0,0,0,0,0,0,2
+324,"Electricity:  Measuring and Testing",0,0,0,1,0,1,0,0,0,0,0,0,2
+482,"Exercise Devices",0,0,0,1,0,1,0,0,0,0,0,0,2
+002,"Apparel",1,0,0,0,0,0,0,0,0,0,0,0,1
+016,"Miscellaneous Hardware",0,0,0,0,0,0,0,0,0,0,0,1,1
+033,"Geometrical Instruments",0,0,0,0,0,0,0,0,0,0,1,0,1
+052,"Static Structures (e.g., Buildings)",0,0,1,0,0,0,0,0,0,0,0,0,1
+070,"Locks",0,0,0,0,1,0,0,0,0,0,0,0,1
+073,"Measuring and Testing",0,0,0,1,0,0,0,0,0,0,0,0,1
+099,"Foods and Beverages: Apparatus",0,0,0,0,0,0,0,0,0,0,0,1,1
+116,"Signals and Indicators",0,0,0,1,0,0,0,0,0,0,0,0,1
+123,"Internal-Combustion Engines",1,0,0,0,0,0,0,0,0,0,0,0,1
+126,"Stoves and Furnaces",0,0,0,0,0,0,0,0,1,0,0,0,1
+134,"Cleaning and Liquid Contact with Solids",0,0,0,0,0,0,0,0,0,0,0,1,1
+137,"Fluid Handling",0,0,1,0,0,0,0,0,0,0,0,0,1
+156,"Adhesive Bonding and Miscellaneous Chemical Manufacture",1,0,0,0,0,0,0,0,0,0,0,0,1
+175,"Boring or Penetrating the Earth",0,1,0,0,0,0,0,0,0,0,0,0,1
+219,"Electric Heating",0,0,0,0,0,0,1,0,0,0,0,0,1
+220,"Receptacles",0,1,0,0,0,0,0,0,0,0,0,0,1
+221,"Article Dispensing",0,0,1,0,0,0,0,0,0,0,0,0,1
+227,"Elongated-Member-Driving Apparatus",0,0,1,0,0,0,0,0,0,0,0,0,1
+254,"Implements or Apparatus for Applying Pushing or Pulling Force",0,0,0,0,0,1,0,0,0,0,0,0,1
+315,"Electric Lamp and Discharge Devices:  Systems",1,0,0,0,0,0,0,0,0,0,0,0,1
+323,"Electricity:  Power Supply or Regulation Systems",0,0,0,0,0,0,0,0,1,0,0,0,1
+359,"Optical: Systems and Elements",0,0,0,0,0,0,0,0,0,1,0,0,1
+370,"Multiplex Communications",0,0,0,0,0,0,0,1,0,0,0,0,1
+410,"Freight Accommodation On Freight Carrier",0,0,0,0,1,0,0,0,0,0,0,0,1
+423,"Chemistry of Inorganic Compounds",0,0,0,0,0,0,0,0,0,1,0,0,1
+424,"Drug, Bio-Affecting and Body Treating Compositions (includes Class 514)",1,0,0,0,0,0,0,0,0,0,0,0,1
+426,"Food or Edible Material:  Processes, Compositions, and Products",0,0,0,0,0,0,0,0,0,1,0,0,1
+435,"Chemistry: Molecular Biology and Microbiology",1,0,0,0,0,0,0,0,0,0,0,0,1
+438,"Semiconductor Device Manufacturing: Process",0,0,0,0,0,0,1,0,0,0,0,0,1
+446,"Amusement Devices:  Toys",0,0,1,0,0,0,0,0,0,0,0,0,1
+450,"Foundation Garments",0,1,0,0,0,0,0,0,0,0,0,0,1
+532,"Organic Compounds (includes Classes 532-570)",0,0,0,0,0,0,0,0,0,0,1,0,1
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",0,0,0,0,0,0,0,0,0,1,0,0,1
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",0,0,0,0,0,0,0,0,0,0,1,0,1
+709,"Multicomputer Data Transferring (Electrical Computers and Digital Processing Systems)",0,0,0,0,0,0,0,1,0,0,0,0,1

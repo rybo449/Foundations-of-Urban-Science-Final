@@ -1,0 +1,58 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+310,"Electrical Generator or Motor Structure",0,2,4,5,7,1,2,0,3,2,6,8,40
+362,"Illumination",1,0,0,4,3,7,7,0,1,0,2,1,26
+123,"Internal-Combustion Engines",1,5,4,4,5,3,0,0,0,0,0,0,22
+336,"Inductor Devices",0,3,0,2,2,1,1,0,0,0,0,0,9
+296,"Land Vehicles:  Bodies and Tops",0,0,3,2,0,0,1,0,1,0,0,0,7
+029,"Metal Working",0,0,0,2,1,0,0,0,1,0,2,0,6
+148,"Metal Treatment",2,3,1,0,0,0,0,0,0,0,0,0,6
+318,"Electricity:  Motive Power Systems",0,0,2,0,0,2,0,1,0,0,0,0,5
+322,"Electricity:  Single Generator Systems",0,0,0,2,2,1,0,0,0,0,0,0,5
+073,"Measuring and Testing",0,1,1,1,0,1,0,0,0,0,0,0,4
+210,"Liquid Purification or Separation",1,0,1,0,0,0,0,0,0,1,1,0,4
+242,"Winding, Tensioning, or Guiding",0,0,0,0,0,1,0,0,0,0,3,0,4
+264,"Plastic and Nonmetallic Article Shaping or Treating: Processes",0,1,2,0,0,0,1,0,0,0,0,0,4
+361,"Electricity:  Electrical Systems and Devices",0,0,0,0,1,0,0,1,1,0,1,0,4
+439,"Electrical Connectors",1,1,1,0,0,1,0,0,0,0,0,0,4
+052,"Static Structures (e.g., Buildings)",0,0,0,0,0,0,0,0,0,1,0,2,3
+089,"Ordnance",0,0,0,0,0,0,0,0,0,0,2,1,3
+280,"Land Vehicles",1,0,0,0,0,0,1,0,0,0,1,0,3
+335,"Electricity:  Magnetically Operated Switches, Magnets, and Electromagnets",0,0,0,1,0,1,0,0,0,0,0,1,3
+510,"Cleaning Compositions for Solid Surfaces, Auxiliary Compositions Therefor, or Processes of Preparing the Compositions",0,0,0,0,0,0,0,0,0,1,2,0,3
+532,"Organic Compounds (includes Classes 532-570)",0,0,1,1,1,0,0,0,0,0,0,0,3
+005,"Beds",0,0,0,0,0,2,0,0,0,0,0,0,2
+075,"Specialized Metallurgical Processes, Compositions for Use Therein, Consolidated Metal Powder Compositions, and Loose Metal Particulate Mixtures",0,1,0,0,1,0,0,0,0,0,0,0,2
+198,"Conveyors:  Power-Driven",1,0,0,0,0,0,0,1,0,0,0,0,2
+248,"Supports (e.g., for holding articles, etc.)",0,0,0,0,0,1,0,1,0,0,0,0,2
+267,"Spring Devices",0,0,1,1,0,0,0,0,0,0,0,0,2
+324,"Electricity:  Measuring and Testing",0,0,0,0,0,1,0,0,0,0,0,1,2
+403,"Joints and Connections",0,0,0,0,0,0,1,1,0,0,0,0,2
+419,"Powder Metallurgy Processes",2,0,0,0,0,0,0,0,0,0,0,0,2
+429,"Chemistry:  Electrical Current Producing Apparatus, Product, and Process",0,1,0,0,0,0,0,0,0,1,0,0,2
+705,"DP: Financial, Business Practice, Management, or Cost/Price Determination (Data Processing)",0,0,0,0,0,1,1,0,0,0,0,0,2
+033,"Geometrical Instruments",0,0,1,0,0,0,0,0,0,0,0,0,1
+040,"Card, Picture, or Sign Exhibiting",0,0,0,0,0,1,0,0,0,0,0,0,1
+042,"Firearms",0,0,0,0,0,0,0,0,0,0,1,0,1
+060,"Power Plants",0,0,0,0,0,0,1,0,0,0,0,0,1
+062,"Refrigeration",0,0,0,0,0,0,1,0,0,0,0,0,1
+072,"Metal Deforming",0,0,0,1,0,0,0,0,0,0,0,0,1
+095,"Gas Separation:  Processes",0,0,1,0,0,0,0,0,0,0,0,0,1
+128,"Surgery (includes Class 600)",0,0,0,0,0,0,0,0,0,0,0,1,1
+140,"Wireworking",0,0,0,0,0,0,0,0,0,1,0,0,1
+141,"Fluent Material Handling, with Receiver or Receiver Coacting Means",0,1,0,0,0,0,0,0,0,0,0,0,1
+156,"Adhesive Bonding and Miscellaneous Chemical Manufacture",0,1,0,0,0,0,0,0,0,0,0,0,1
+222,"Dispensing (apparatus and process)",1,0,0,0,0,0,0,0,0,0,0,0,1
+252,"Compositions",0,1,0,0,0,0,0,0,0,0,0,0,1
+269,"Work Holders",0,0,0,0,0,0,1,0,0,0,0,0,1
+290,"Prime-Mover Dynamo Plants",0,0,0,0,1,0,0,0,0,0,0,0,1
+363,"Electric Power Conversion Systems",0,0,0,0,1,0,0,0,0,0,0,0,1
+378,"X-Ray or Gamma Ray Systems or Devices",0,0,0,0,0,0,0,0,0,0,0,1,1
+382,"Image Analysis",0,0,0,0,0,0,0,0,0,0,1,0,1
+388,"Electricity:  Motor Control Systems",0,0,0,0,0,1,0,0,0,0,0,0,1
+414,"Material or Article Handling",0,0,0,0,1,0,0,0,0,0,0,0,1
+427,"Coating Processes",0,1,0,0,0,0,0,0,0,0,0,0,1
+435,"Chemistry: Molecular Biology and Microbiology",0,0,1,0,0,0,0,0,0,0,0,0,1
+441,"Buoys, Rafts, and Aquatic Devices",0,0,0,0,0,1,0,0,0,0,0,0,1
+455,"Telecommunications",0,0,0,0,0,0,0,0,0,0,0,1,1
+473,"Games Using Tangible Projectile",0,0,0,0,0,0,0,0,0,1,0,0,1
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",0,0,0,0,0,0,0,0,0,1,0,0,1

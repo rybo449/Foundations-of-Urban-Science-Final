@@ -1,0 +1,70 @@
+Class,Class Title,2000 ,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,Total
+180,"Motor Vehicles",0,1,3,1,0,0,0,2,1,2,8,6,24
+052,"Static Structures (e.g., Buildings)",2,3,1,1,0,3,0,3,0,0,1,2,16
+160,"Flexible or Portable Closure, Partition, or Panel",2,1,1,2,1,2,1,3,1,0,2,0,16
+172,"Earth Working",0,2,0,1,0,1,0,1,0,3,2,1,11
+210,"Liquid Purification or Separation",0,1,3,2,0,0,0,0,1,0,2,0,9
+296,"Land Vehicles:  Bodies and Tops",1,3,1,0,0,0,0,0,0,2,1,0,8
+454,"Ventilation",0,2,1,2,0,3,0,0,0,0,0,0,8
+305,"Wheel Substitutes for Land Vehicles",0,0,0,0,0,1,0,0,0,1,3,2,7
+037,"Excavating",0,0,0,1,2,0,1,1,0,1,0,0,6
+049,"Movable or Removable Closures",0,1,3,0,0,1,0,0,0,0,0,0,5
+073,"Measuring and Testing",2,0,0,0,1,0,1,0,1,0,0,0,5
+219,"Electric Heating",0,2,0,0,0,0,1,0,1,0,0,1,5
+280,"Land Vehicles",0,0,0,0,2,1,0,1,0,0,1,0,5
+414,"Material or Article Handling",0,0,2,0,0,0,0,1,1,1,0,0,5
+701,"DP: Vehicles, Navigation, and Relative Location (Data Processing)",0,0,0,0,0,0,0,3,1,0,1,0,5
+060,"Power Plants",0,0,0,0,0,0,1,0,1,0,0,2,4
+137,"Fluid Handling",0,1,0,0,0,0,0,0,0,1,0,1,3
+248,"Supports (e.g., for holding articles, etc.)",0,2,0,0,0,0,0,0,0,0,0,1,3
+297,"Chairs and Seats",1,0,0,0,0,1,0,0,0,0,0,1,3
+340,"Communications:  Electrical",0,0,0,0,0,0,2,0,1,0,0,0,3
+475,"Planetary Gear Transmission Systems or Components",0,1,1,0,0,0,0,0,0,1,0,0,3
+005,"Beds",0,0,0,0,0,0,1,0,1,0,0,0,2
+043,"Fishing, Trapping, and Vermin Destroying",1,0,0,0,0,0,0,0,0,0,0,1,2
+056,"Harvesters",0,0,0,0,0,1,0,0,0,0,1,0,2
+074,"Machine Element or Mechanism",0,1,0,1,0,0,0,0,0,0,0,0,2
+141,"Fluent Material Handling, with Receiver or Receiver Coacting Means",0,0,0,0,0,0,1,1,0,0,0,0,2
+222,"Dispensing (apparatus and process)",0,1,0,0,0,0,0,1,0,0,0,0,2
+250,"Radiant Energy",0,0,1,0,0,0,1,0,0,0,0,0,2
+362,"Illumination",0,1,0,0,0,0,1,0,0,0,0,0,2
+422,"Chemical Apparatus and Process Disinfecting, Deodorizing, Preserving, or Sterilizing",1,0,1,0,0,0,0,0,0,0,0,0,2
+451,"Abrading",1,0,0,0,0,1,0,0,0,0,0,0,2
+477,"Interrelated Power Delivery Controls, Including Engine Control",0,0,0,0,0,0,0,0,0,0,1,1,2
+014,"Bridges",0,0,0,1,0,0,0,0,0,0,0,0,1
+016,"Miscellaneous Hardware",0,0,0,0,1,0,0,0,0,0,0,0,1
+029,"Metal Working",0,0,0,0,0,0,0,0,0,0,1,0,1
+072,"Metal Deforming",0,0,0,0,0,0,0,0,1,0,0,0,1
+081,"Tools",0,1,0,0,0,0,0,0,0,0,0,0,1
+091,"Motors: Expansible Chamber Type",0,0,0,0,0,0,0,0,1,0,0,0,1
+105,"Railway Rolling Stock",0,0,0,0,0,0,1,0,0,0,0,0,1
+119,"Animal Husbandry",0,0,0,0,0,0,0,0,0,0,1,0,1
+123,"Internal-Combustion Engines",0,0,0,0,0,0,0,0,0,1,0,0,1
+128,"Surgery (includes Class 600)",0,0,0,1,0,0,0,0,0,0,0,0,1
+144,"Woodworking",0,0,0,0,0,0,0,0,0,0,0,1,1
+165,"Heat Exchange",0,0,0,0,0,0,0,0,1,0,0,0,1
+184,"Lubrication",1,0,0,0,0,0,0,0,0,0,0,0,1
+188,"Brakes",0,0,0,0,1,0,0,0,0,0,0,0,1
+200,"Electricity:  Circuit Makers and Breakers",0,0,0,0,0,0,0,0,0,0,0,1,1
+205,"Electrolysis:  Processes, Compositions Used Therein, and Methods of Preparing the Compositions",0,0,0,0,0,0,0,1,0,0,0,0,1
+237,"Heating Systems",0,1,0,0,0,0,0,0,0,0,0,0,1
+241,"Solid Material Comminution or Disintegration",0,0,0,0,0,0,0,0,0,0,0,1,1
+285,"Pipe Joints or Couplings",0,0,0,1,0,0,0,0,0,0,0,0,1
+290,"Prime-Mover Dynamo Plants",0,0,0,0,0,0,0,0,0,1,0,0,1
+292,"Closure Fasteners",1,0,0,0,0,0,0,0,0,0,0,0,1
+299,"Mining or In Situ Disintegration of Hard Material",0,1,0,0,0,0,0,0,0,0,0,0,1
+303,"Fluid-Pressure and Analogous Brake Systems",0,1,0,0,0,0,0,0,0,0,0,0,1
+307,"Electrical Transmission or Interconnection Systems",0,1,0,0,0,0,0,0,0,0,0,0,1
+363,"Electric Power Conversion Systems",1,0,0,0,0,0,0,0,0,0,0,0,1
+366,"Agitating (e.g., of articles and materials)",0,0,0,0,0,0,0,0,0,0,1,0,1
+368,"Horology: Time Measuring Systems or Devices",0,0,0,0,0,0,0,0,0,0,0,1,1
+392,"Electric Resistance Heating Devices",1,0,0,0,0,0,0,0,0,0,0,0,1
+403,"Joints and Connections",0,0,0,0,0,1,0,0,0,0,0,0,1
+408,"Cutting by Use of Rotating Axially Moving Tool",1,0,0,0,0,0,0,0,0,0,0,0,1
+412,"Bookbinding: Process and Apparatus",0,0,0,0,0,0,0,0,0,0,0,1,1
+416,"Fluid Reaction Surfaces (i.e., Impellers)",0,0,0,0,0,0,0,0,0,0,1,0,1
+424,"Drug, Bio-Affecting and Body Treating Compositions (includes Class 514)",0,0,0,0,0,0,1,0,0,0,0,0,1
+439,"Electrical Connectors",0,0,0,0,0,0,0,0,1,0,0,0,1
+452,"Butchering",0,0,0,0,0,0,0,0,1,0,0,0,1
+453,"Coin Handling",1,0,0,0,0,0,0,0,0,0,0,0,1
+463,"Amusement Devices: Games",0,0,0,0,0,0,0,0,0,0,0,1,1
